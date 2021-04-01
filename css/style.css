@@ -221,12 +221,12 @@ img.over {
 	#Image{
 		width: 100%;
 	}
+	.video {
+		background-image: url("../background-mobile.jpg");
+	}
 }
 @media only screen and (max-width: 320px) {
 	.main-example {
 		zoom:45%;
-	}
-	.video {
-		background-image: url("../background-mobile.jpg");
 	}
 }
