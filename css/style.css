@@ -195,7 +195,7 @@ body {
 	border-top: 2px solid white;
 	margin:0px -15px 0px -15px;
 	color: #8c8888;
-    background: #fff;
+	background: #fff;
 	padding: 10px 0px;
 	text-align: center;
 }
@@ -225,5 +225,8 @@ img.over {
 @media only screen and (max-width: 320px) {
 	.main-example {
 		zoom:45%;
+	}
+	.video {
+		background-image: url("../background-mobile.jpg");
 	}
 }
